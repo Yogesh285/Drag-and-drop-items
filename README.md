@@ -20,4 +20,3 @@ A simple and interactive **Drag and Drop** web application built using **HTML**,
 - CSS3
 - JavaScript (ES6+)
 
-
